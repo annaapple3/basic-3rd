@@ -8,7 +8,7 @@
 - HTTP 요청 중 ".pdf" 파일을 다운로드하는 요청을 찾으시오.
 
 - 전체 URL (http:// 포함)을 작성하시오.
-  -> [http://www.yongin.go.kr/ebook/src/viewer/download.php?host=main&site=20260227_091734&no=1]
+  -> [http://www.yongin.go.kr/ebook/src/viewer/download.php?host=main&site=20220430_101634_1&no=1]
 
 - 요청 방식(GET/POST)을 작성하시오.
   -> GET
@@ -19,11 +19,10 @@
   -> application/pdf
 
 - 파일 크기는 얼마인가?
-  -> 1,454,287 B
+  -> 867,700 B
 
 - 파일 이름은 무엇인가?
-  -> 2026%EB%85%84*%EB%AA%A8%EC%9E%90%EB%B3%B4%EA%B1%B4%EC%82%AC%EC%97%85*%EC%95%88%EB%82%B4%EC%B1%85%EC%9E%90%28%EC%B2%98%EC%9D%B8%EA%B5%AC%EB%B3%B4%EA%B1%B4%EC%86%8C%29.pdf
-  (2026년*모자보건사업*안내책자(처인구보건소))
+  -> (23)*도시계획*계획의\_실행.pdf
 
 # 4. 파일 복구
 
@@ -38,4 +37,4 @@
 7. 복구하려는 파일이 맞는지 확인해줍니다.
 
 - 복구 과정 화면을 캡처하여 첨부하시오.
-  <img width="1946" height="1314" alt="Image" src="https://github.com/user-attachments/assets/cb080699-6ec4-4b5e-86c6-8e2260e7ab59" />
+  <img width="1539" height="969" alt="Image" src="https://github.com/user-attachments/assets/7ee8b15d-33df-4226-9dea-265971028ff1" />
